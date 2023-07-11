@@ -22,7 +22,7 @@ int main(){
     secondfriend.name ="sarina";
     secondfriend.age=20;
     secondfriend.address="bagbazzar";
-    secondfriend.ghumneprogram(); 
+    secondfriend.ghumneprogram();
 }
 // name
 // age
